@@ -13,3 +13,4 @@ Usage:
 5. Once the playbook execution is complete, SSH into your master server and run the deploy script
 6. Follow the prompts to set up your Laravel application. Make sure to replace placeholders with your actual database details
 7. Access your Laravel application in a web browser by navigating to the IP address of your server
+![slavenodeip](https://github.com/JSPGARBA/LAMP-for-laravel-app-with-ansible-and-bash/assets/86578841/8c2df073-14db-437b-ad03-aa437d69ff5f)
